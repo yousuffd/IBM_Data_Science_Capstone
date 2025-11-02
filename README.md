@@ -56,4 +56,8 @@ Through this analysis, we aim to identify factors influencing launch success and
 - Identified payload mass and orbit type as key determinants of landing success.  
 - Delivered a fully functional dashboard for visual exploration of launch outcomes.
 
+## 🏆 Acknowledgement
+
+- This project was completed as part of the IBM Data Science Professional Certificate on Coursera.
+- Dataset and APIs provided by SpaceX and Wikipedia.
 
